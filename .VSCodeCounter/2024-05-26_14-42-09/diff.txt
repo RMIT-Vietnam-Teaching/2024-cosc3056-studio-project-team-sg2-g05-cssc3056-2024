@@ -1,0 +1,64 @@
+Date : 2024-05-26 14:42:09
+Directory : c:\Serious Project\Programing Studio 1\terrascope-backend\src
+Total : 23 files,  766 codes, -3 comments, 133 blanks, all 896 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Java     |         23 |        766 |         -3 |        133 |        896 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                 |         23 |        766 |         -3 |        133 |        896 |
+| main                                                                                                                                                              |         23 |        766 |         -3 |        133 |        896 |
+| main\java                                                                                                                                                         |         23 |        766 |         -3 |        133 |        896 |
+| main\java\com                                                                                                                                                     |         23 |        766 |         -3 |        133 |        896 |
+| main\java\com\xuanduy                                                                                                                                             |         23 |        766 |         -3 |        133 |        896 |
+| main\java\com\xuanduy\terrascope                                                                                                                                  |         23 |        766 |         -3 |        133 |        896 |
+| main\java\com\xuanduy\terrascope\controller                                                                                                                       |          4 |         72 |          0 |         14 |         86 |
+| main\java\com\xuanduy\terrascope\dto                                                                                                                              |         11 |        208 |          0 |         72 |        280 |
+| main\java\com\xuanduy\terrascope\dto\city                                                                                                                         |          4 |        -13 |          0 |         -4 |        -17 |
+| main\java\com\xuanduy\terrascope\dto\city\respond                                                                                                                 |          4 |        -13 |          0 |         -4 |        -17 |
+| main\java\com\xuanduy\terrascope\dto\country                                                                                                                      |          4 |         88 |          0 |         34 |        122 |
+| main\java\com\xuanduy\terrascope\dto\country\respond                                                                                                              |          4 |         88 |          0 |         34 |        122 |
+| main\java\com\xuanduy\terrascope\dto\global                                                                                                                       |          1 |         73 |          0 |         22 |         95 |
+| main\java\com\xuanduy\terrascope\dto\global\respond                                                                                                               |          1 |         73 |          0 |         22 |         95 |
+| main\java\com\xuanduy\terrascope\dto\state                                                                                                                        |          2 |         60 |          0 |         20 |         80 |
+| main\java\com\xuanduy\terrascope\dto\state\respond                                                                                                                |          2 |         60 |          0 |         20 |         80 |
+| main\java\com\xuanduy\terrascope\repository                                                                                                                       |          4 |        455 |         -2 |         33 |        486 |
+| main\java\com\xuanduy\terrascope\service                                                                                                                          |          4 |         31 |         -1 |         14 |         44 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                                                                                          | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\controller\CityController.java                                     | Java     |          6 |          0 |          2 |          8 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\controller\CountryController.java                                  | Java     |         28 |          0 |          4 |         32 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\controller\GlobalController.java                                   | Java     |         18 |          0 |          5 |         23 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\controller\StateController.java                                    | Java     |         20 |          0 |          3 |         23 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\city\respond\CityDataWithinPeriodDTO.java                      | Java     |         25 |          0 |         10 |         35 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\city\respond\CountryDataWithinPeriodDTO.java                   | Java     |        -25 |          0 |        -10 |        -35 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\city\respond\SimilarPeriodCityRecordDTO.java                   | Java     |          1 |          0 |          0 |          1 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\city\respond\TemperatureChangeCityRecordDTO.java               | Java     |        -14 |          0 |         -4 |        -18 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\country\respond\AverageValueOfTemperatureCountryRecordDTO.java | Java     |         -5 |          0 |          2 |         -3 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\country\respond\CountryDataWithinPeriodDTO.java                | Java     |         26 |          0 |          9 |         35 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\country\respond\RawAndPercentageChangeCountryRecordDTO.java    | Java     |          1 |          0 |          3 |          4 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\country\respond\SimilarPeriodCountryRecordDTO.java             | Java     |         66 |          0 |         20 |         86 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\global\respond\RawAndPercentageChangeGlobalRecordDTO.java      | Java     |         73 |          0 |         22 |         95 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\state\respond\SimilarPeriodStateRecordDTO.java                 | Java     |         74 |          0 |         22 |         96 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\dto\state\respond\TemperatureChangeStateRecordDTO.java             | Java     |        -14 |          0 |         -2 |        -16 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\repository\CityRepository.java                                     | Java     |         62 |          0 |          7 |         69 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\repository\CountryRepository.java                                  | Java     |        155 |         -2 |          7 |        160 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\repository\GlobalRepository.java                                   | Java     |         70 |          0 |         10 |         80 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\repository\StateRepository.java                                    | Java     |        168 |          0 |          9 |        177 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\service\CityService.java                                           | Java     |          3 |          0 |          2 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\service\CountryService.java                                        | Java     |          2 |         -1 |          4 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\service\GlobalService.java                                         | Java     |         14 |          0 |          5 |         19 |
+| c:\Serious Project\Programing Studio 1\terrascope-backend\src\main\java\com\xuanduy\terrascope\service\StateService.java                                          | Java     |         12 |          0 |          3 |         15 |
+| Total                                                                                                                                                             |          |        766 |         -3 |        133 |        896 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
