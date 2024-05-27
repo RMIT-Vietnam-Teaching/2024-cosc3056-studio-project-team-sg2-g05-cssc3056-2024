@@ -1,0 +1,51 @@
+Date : 2024-05-26 14:03:57
+Directory : c:\Serious Project\Programing Studio 1\terrascope-frontend\src
+Total : 14 files,  571 codes, 0 comments, 24 blanks, all 595 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |         14 |        571 |          0 |         24 |        595 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                  |         14 |        571 |          0 |         24 |        595 |
+| components                                                                                                                                                         |          3 |         13 |          0 |          0 |         13 |
+| components\common                                                                                                                                                  |          3 |         13 |          0 |          0 |         13 |
+| components\common\dual-slider-with-inputs                                                                                                                          |          1 |          8 |          0 |          0 |          8 |
+| components\common\pagination                                                                                                                                       |          1 |          1 |          0 |          0 |          1 |
+| components\common\process-button                                                                                                                                   |          1 |          4 |          0 |          0 |          4 |
+| pages                                                                                                                                                              |         11 |        558 |          0 |         24 |        582 |
+| pages\deep-dive                                                                                                                                                    |         11 |        558 |          0 |         24 |        582 |
+| pages\deep-dive\find-similar-period                                                                                                                                |          5 |        367 |          0 |         12 |        379 |
+| pages\deep-dive\find-similar-period\cities                                                                                                                         |          4 |        201 |          0 |          6 |        207 |
+| pages\deep-dive\find-similar-period\states                                                                                                                         |          1 |        166 |          0 |          6 |        172 |
+| pages\deep-dive\temperature-change-over-periods                                                                                                                    |          6 |        191 |          0 |         12 |        203 |
+| pages\deep-dive\temperature-change-over-periods\cities                                                                                                             |          1 |          0 |          0 |          1 |          1 |
+| pages\deep-dive\temperature-change-over-periods\countries                                                                                                          |          5 |        191 |          0 |         11 |        202 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                                                           | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\dual-slider-with-inputs\InputField.jsx                                            | JavaScript JSX |          8 |          0 |          0 |          8 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\PageInput.jsx                                                          | JavaScript JSX |          1 |          0 |          0 |          1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\process-button\ProcessButton.jsx                                                  | JavaScript JSX |          4 |          0 |          0 |          4 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\DataDisplay.jsx                                          | JavaScript JSX |         43 |          0 |          2 |         45 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\DataInformation.jsx                                      | JavaScript JSX |         61 |          0 |          1 |         62 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\Header.jsx                                               | JavaScript JSX |         30 |          0 |          1 |         31 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\SimilarPeriodCities.jsx                                  | JavaScript JSX |         67 |          0 |          2 |         69 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\states\SimilarPeriodStates.jsx                                  | JavaScript JSX |        166 |          0 |          6 |        172 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\cities\TemperatureChangeOverPeriodsCity.jsx         | JavaScript JSX |          0 |          0 |          1 |          1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\Header.jsx                                | JavaScript JSX |         20 |          0 |          1 |         21 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeDisplay.jsx              | JavaScript JSX |         40 |          0 |          3 |         43 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeOverPeriodsCountries.jsx | JavaScript JSX |         40 |          0 |          2 |         42 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeWithInPeriod.jsx         | JavaScript JSX |         46 |          0 |          4 |         50 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureInformation.jsx                | JavaScript JSX |         45 |          0 |          1 |         46 |
+| Total                                                                                                                                                              |                |        571 |          0 |         24 |        595 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

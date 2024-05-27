@@ -1,0 +1,74 @@
+Date : 2024-05-26 22:48:34
+Directory : c:\Serious Project\Programing Studio 1\terrascope-frontend\src
+Total : 27 files,  754 codes, 0 comments, 23 blanks, all 777 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |         26 |        739 |          0 |         23 |        762 |
+| JavaScript     |          1 |         15 |          0 |          0 |         15 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                  |         27 |        754 |          0 |         23 |        777 |
+| . (Files)                                                                                                                                                          |          1 |         15 |          0 |          0 |         15 |
+| components                                                                                                                                                         |          7 |        110 |          0 |          3 |        113 |
+| components\common                                                                                                                                                  |          5 |         17 |          0 |          1 |         18 |
+| components\common\dual-slider-with-inputs                                                                                                                          |          1 |         -1 |          0 |          0 |         -1 |
+| components\common\image-with-warning                                                                                                                               |          1 |          4 |          0 |          1 |          5 |
+| components\common\search-and-chips                                                                                                                                 |          2 |         16 |          0 |          0 |         16 |
+| components\common\select-box                                                                                                                                       |          1 |         -2 |          0 |          0 |         -2 |
+| components\settings-side-bar                                                                                                                                       |          2 |         93 |          0 |          2 |         95 |
+| pages                                                                                                                                                              |         19 |        629 |          0 |         20 |        649 |
+| pages\deep-dive                                                                                                                                                    |         10 |        271 |          0 |         13 |        284 |
+| pages\deep-dive\find-similar-period                                                                                                                                |          2 |          2 |          0 |          3 |          5 |
+| pages\deep-dive\find-similar-period\cities                                                                                                                         |          1 |          2 |          0 |          1 |          3 |
+| pages\deep-dive\find-similar-period\countries                                                                                                                      |          1 |          0 |          0 |          2 |          2 |
+| pages\deep-dive\temperature-change-over-periods                                                                                                                    |          8 |        269 |          0 |         10 |        279 |
+| pages\deep-dive\temperature-change-over-periods\cities                                                                                                             |          2 |        128 |          0 |          5 |        133 |
+| pages\deep-dive\temperature-change-over-periods\countries                                                                                                          |          5 |         21 |          0 |         -1 |         20 |
+| pages\deep-dive\temperature-change-over-periods\states                                                                                                             |          1 |        120 |          0 |          6 |        126 |
+| pages\home                                                                                                                                                         |          7 |        281 |          0 |          8 |        289 |
+| pages\home\map-preview-section                                                                                                                                     |          7 |        281 |          0 |          8 |        289 |
+| pages\shallow-glance                                                                                                                                               |          2 |         77 |          0 |         -1 |         76 |
+| pages\shallow-glance\countries                                                                                                                                     |          1 |         -1 |          0 |          0 |         -1 |
+| pages\shallow-glance\world                                                                                                                                         |          1 |         78 |          0 |         -1 |         77 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                                                                           | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\App.js                                                                                              | JavaScript     |         15 |          0 |          0 |         15 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\dual-slider-with-inputs\InputField.jsx                                            | JavaScript JSX |         -1 |          0 |          0 |         -1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\image-with-warning\ImageWithWarning.jsx                                           | JavaScript JSX |          4 |          0 |          1 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\Search.jsx                                                       | JavaScript JSX |          1 |          0 |          0 |          1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\SearchAndChips.jsx                                               | JavaScript JSX |         15 |          0 |          0 |         15 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\select-box\SelectBox.jsx                                                          | JavaScript JSX |         -2 |          0 |          0 |         -2 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\settings-side-bar\DropdownMenu.jsx                                                       | JavaScript JSX |         39 |          0 |          2 |         41 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\settings-side-bar\SettingsSideBar.jsx                                                    | JavaScript JSX |         54 |          0 |          0 |         54 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\DataInformation.jsx                                      | JavaScript JSX |          2 |          0 |          1 |          3 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\countries\SimilarPeriodCountries.jsx                            | JavaScript JSX |          0 |          0 |          2 |          2 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\cities\TemperatureChangeOverPeriodsCities.jsx       | JavaScript JSX |        128 |          0 |          6 |        134 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\cities\TemperatureChangeOverPeriodsCity.jsx         | JavaScript JSX |          0 |          0 |         -1 |         -1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\Header.jsx                                | JavaScript JSX |          5 |          0 |          0 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeDisplay.jsx              | JavaScript JSX |          3 |          0 |          0 |          3 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeOverPeriodsCountries.jsx | JavaScript JSX |          3 |          0 |         -1 |          2 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeWithInPeriod.jsx         | JavaScript JSX |          5 |          0 |          0 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureInformation.jsx                | JavaScript JSX |          5 |          0 |          0 |          5 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\states\TemperatureChangeOverPeriodsStates.jsx       | JavaScript JSX |        120 |          0 |          6 |        126 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\ChoroplethMap.jsx                                                    | JavaScript JSX |         14 |          0 |          3 |         17 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\DataInfo.jsx                                                         | JavaScript JSX |          9 |          0 |          1 |         10 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\MapPreviewSection.jsx                                                | JavaScript JSX |         87 |          0 |          0 |         87 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\SelectedInformation.jsx                                              | JavaScript JSX |         84 |          0 |          2 |         86 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\Title.jsx                                                            | JavaScript JSX |         16 |          0 |          1 |         17 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\WorldInformation.jsx                                                 | JavaScript JSX |         24 |          0 |          0 |         24 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\YearSlider.jsx                                                       | JavaScript JSX |         47 |          0 |          1 |         48 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\countries\CountriesChangeDisplay.jsx                                           | JavaScript JSX |         -1 |          0 |          0 |         -1 |
+| c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\ShallowGlanceWorld.jsx                                                   | JavaScript JSX |         78 |          0 |         -1 |         77 |
+| Total                                                                                                                                                              |                |        754 |          0 |         23 |        777 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

@@ -1,0 +1,90 @@
+"filename", "language", "JavaScript", "PostCSS", "JavaScript JSX", "XML", "comment", "blank", "total"
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\App.css", "PostCSS", 0, 33, 0, 0, 0, 6, 39
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\App.js", "JavaScript", 59, 0, 0, 0, 0, 2, 61
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\App.test.js", "JavaScript", 7, 0, 0, 0, 0, 2, 9
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\api\api.js", "JavaScript", 14, 0, 0, 0, 1, 2, 17
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\arrow-down.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\arrow-up.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\arrow.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\change-line.svg", "XML", 0, 0, 0, 3, 0, 0, 3
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\dots.svg", "XML", 0, 0, 0, 130, 0, 1, 131
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\ellipse.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\leaf.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\line.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\logo.svg", "XML", 0, 0, 0, 22, 0, 1, 23
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\long-change-line.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\rectangle.svg", "XML", 0, 0, 0, 3, 0, 1, 4
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\assets\world.svg", "XML", 0, 0, 0, 1037, 1, 1, 1039
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\dual-slider-with-inputs\DualSliderWithInputs.jsx", "JavaScript JSX", 0, 0, 76, 0, 0, 1, 77
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\dual-slider-with-inputs\InputField.jsx", "JavaScript JSX", 0, 0, 38, 0, 0, 3, 41
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\dual-switch-button\DualSwitchButton.jsx", "JavaScript JSX", 0, 0, 77, 0, 0, 3, 80
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\image-with-calculation-warning\ImageWithCalculationWarning.jsx", "JavaScript JSX", 0, 0, 122, 0, 0, 8, 130
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\image-with-warning\ImageWithWarning.jsx", "JavaScript JSX", 0, 0, 70, 0, 0, 6, 76
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\ArrowLeftButton.jsx", "JavaScript JSX", 0, 0, 19, 0, 0, 3, 22
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\ArrowRightButton.jsx", "JavaScript JSX", 0, 0, 19, 0, 0, 3, 22
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\DoubleArrowLeftButton.jsx", "JavaScript JSX", 0, 0, 15, 0, 0, 3, 18
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\DoubleArrowRightButton.jsx", "JavaScript JSX", 0, 0, 14, 0, 0, 3, 17
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\PageInput.jsx", "JavaScript JSX", 0, 0, 49, 0, 0, 5, 54
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\PageNumber.jsx", "JavaScript JSX", 0, 0, 15, 0, 0, 1, 16
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\pagination\Pagination.jsx", "JavaScript JSX", 0, 0, 66, 0, 0, 5, 71
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\population-change-information\PopulationChangeInformation.jsx", "JavaScript JSX", 0, 0, 57, 0, 0, 6, 63
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\population-change-information\PopulationInfo.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 2, 22
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\population-change-information\PopulationPercentageChangeInfo.jsx", "JavaScript JSX", 0, 0, 23, 0, 0, 1, 24
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\population-change-information\PopulationRawChangeInfo.jsx", "JavaScript JSX", 0, 0, 20, 0, 1, 2, 23
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\process-button\ProcessButton.jsx", "JavaScript JSX", 0, 0, 14, 0, 0, 2, 16
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\Chip.jsx", "JavaScript JSX", 0, 0, 27, 0, 0, 2, 29
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\Search.jsx", "JavaScript JSX", 0, 0, 86, 0, 0, 3, 89
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\SearchAndChips.jsx", "JavaScript JSX", 0, 0, 86, 0, 0, 2, 88
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\search-and-chips\WarningModal.jsx", "JavaScript JSX", 0, 0, 55, 0, 0, 1, 56
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\select-box\SelectBox.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 3, 23
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\select-search-box\SelectSearchBox.jsx", "JavaScript JSX", 0, 0, 58, 0, 0, 1, 59
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\temperature-and-population-change-information\TemperatureAndPopulationChangeInformation.jsx", "JavaScript JSX", 0, 0, 56, 0, 0, 3, 59
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\temperature-change-information\TemperatureChangeInformation.jsx", "JavaScript JSX", 0, 0, 61, 0, 0, 6, 67
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\temperature-change-information\TemperatureInfo.jsx", "JavaScript JSX", 0, 0, 16, 0, 0, 2, 18
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\temperature-change-information\TemperaturePercentageChangeInfo.jsx", "JavaScript JSX", 0, 0, 20, 0, 0, 1, 21
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\common\temperature-change-information\TemperatureRawChangeInfo.jsx", "JavaScript JSX", 0, 0, 17, 0, 0, 3, 20
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\settings-side-bar\DropdownMenu.jsx", "JavaScript JSX", 0, 0, 39, 0, 0, 2, 41
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\components\settings-side-bar\SettingsSideBar.jsx", "JavaScript JSX", 0, 0, 96, 0, 0, 2, 98
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\index.css", "PostCSS", 0, 7, 0, 0, 0, 1, 8
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\index.js", "JavaScript", 13, 0, 0, 0, 3, 2, 18
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\DataDisplay.jsx", "JavaScript JSX", 0, 0, 48, 0, 0, 2, 50
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\DataInformation.jsx", "JavaScript JSX", 0, 0, 63, 0, 0, 2, 65
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\Header.jsx", "JavaScript JSX", 0, 0, 30, 0, 0, 1, 31
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\cities\SimilarPeriodCities.jsx", "JavaScript JSX", 0, 0, 174, 0, 0, 6, 180
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\countries\SimilarPeriodCountries.jsx", "JavaScript JSX", 0, 0, 148, 0, 0, 10, 158
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\find-similar-period\states\SimilarPeriodStates.jsx", "JavaScript JSX", 0, 0, 147, 0, 0, 8, 155
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\cities\TemperatureChangeOverPeriodsCities.jsx", "JavaScript JSX", 0, 0, 128, 0, 0, 6, 134
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\Header.jsx", "JavaScript JSX", 0, 0, 25, 0, 0, 1, 26
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeDisplay.jsx", "JavaScript JSX", 0, 0, 43, 0, 0, 3, 46
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeOverPeriodsCountries.jsx", "JavaScript JSX", 0, 0, 126, 0, 0, 5, 131
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureChangeWithInPeriod.jsx", "JavaScript JSX", 0, 0, 51, 0, 0, 4, 55
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\countries\TemperatureInformation.jsx", "JavaScript JSX", 0, 0, 50, 0, 0, 1, 51
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\deep-dive\temperature-change-over-periods\states\TemperatureChangeOverPeriodsStates.jsx", "JavaScript JSX", 0, 0, 120, 0, 0, 6, 126
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\Home.jsx", "JavaScript JSX", 0, 0, 13, 0, 0, 2, 15
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\hero-section\HeroContent.jsx", "JavaScript JSX", 0, 0, 32, 0, 0, 4, 36
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\hero-section\HeroSection.jsx", "JavaScript JSX", 0, 0, 11, 0, 0, 3, 14
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\hero-section\NavigationBar.jsx", "JavaScript JSX", 0, 0, 27, 0, 0, 4, 31
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\index.jsx", "JavaScript JSX", 0, 0, 4, 0, 0, 1, 5
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\ChoroplethMap.jsx", "JavaScript JSX", 0, 0, 133, 0, 3, 8, 144
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\DataInfo.jsx", "JavaScript JSX", 0, 0, 9, 0, 0, 1, 10
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\MapPreviewSection.jsx", "JavaScript JSX", 0, 0, 248, 0, 5, 10, 263
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\SelectedInformation.jsx", "JavaScript JSX", 0, 0, 84, 0, 0, 2, 86
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\Title.jsx", "JavaScript JSX", 0, 0, 16, 0, 0, 1, 17
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\WorldInformation.jsx", "JavaScript JSX", 0, 0, 26, 0, 0, 1, 27
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\home\map-preview-section\YearSlider.jsx", "JavaScript JSX", 0, 0, 47, 0, 0, 1, 48
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\cities-and-states\CitiesAndStatesDataDisplay.jsx", "JavaScript JSX", 0, 0, 65, 0, 0, 1, 66
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\cities-and-states\CitiesAndStatesDataInformation.jsx", "JavaScript JSX", 0, 0, 64, 0, 0, 1, 65
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\cities-and-states\ShallowGlanceCitiesAndStates.jsx", "JavaScript JSX", 0, 0, 137, 0, 4, 8, 149
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\cities-and-states\TableHeader.jsx", "JavaScript JSX", 0, 0, 27, 0, 0, 1, 28
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\countries\CountriesChangeDisplay.jsx", "JavaScript JSX", 0, 0, 52, 0, 0, 4, 56
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\countries\ShallowGlanceCountries.jsx", "JavaScript JSX", 0, 0, 79, 0, 0, 7, 86
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\countries\TableHeader.jsx", "JavaScript JSX", 0, 0, 29, 0, 0, 1, 30
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\ShallowGlanceWorld.jsx", "JavaScript JSX", 0, 0, 173, 0, 1, 5, 179
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\SortArrowIcon.jsx", "JavaScript JSX", 0, 0, 14, 0, 0, 2, 16
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\TableHeader.jsx", "JavaScript JSX", 0, 0, 40, 0, 0, 3, 43
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\Title.jsx", "JavaScript JSX", 0, 0, 36, 0, 0, 4, 40
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\WorldDataChangeDisplay.jsx", "JavaScript JSX", 0, 0, 61, 0, 0, 4, 65
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\pages\shallow-glance\world\index.jsx", "JavaScript JSX", 0, 0, 4, 0, 0, 2, 6
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 2, 14
+"c:\Serious Project\Programing Studio 1\terrascope-frontend\src\setupTests.js", "JavaScript", 1, 0, 0, 0, 4, 1, 6
+"Total", "-", 106, 40, 3935, 1212, 23, 251, 5567
