@@ -20,15 +20,15 @@ function InputField({ label, value, onInputChange, min, max }) {
         onChange={(e) => {
           const newValue = e.target.value.replace(/\D/g, "");
           e.target.value = e.target.value.replace(/\D/g, "");
-          if (Number(newValue) < min || Number(newValue) > max) return;
+          if (Number(newValue) <= min || Number(newValue) >= max) return;
           onInputChange(Number(newValue));
         }}
         onBlur={() => {
           if (inputRef.current.value === "") {
             toast.error("This field cannot be empty");
-          } else if (Number(inputRef.current.value) < min) {
+          } else if (Number(inputRef.current.value) <= min) {
             toast.error("Value cannot be less than " + min);
-          } else if (Number(inputRef.current.value) > max) {
+          } else if (Number(inputRef.current.value) >= max) {
             toast.error("Value cannot be more than " + max);
           }
           inputRef.current.value = value;

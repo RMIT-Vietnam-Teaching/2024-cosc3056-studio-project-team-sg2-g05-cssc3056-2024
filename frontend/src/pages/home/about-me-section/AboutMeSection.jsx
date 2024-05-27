@@ -32,6 +32,13 @@ const AboutMeSection = ({ aboutMeRef }) => {
           {teamMembers[0]?.quote} {"`"}
         </h1>
       </div>
+      <div className="mt-6 flex flex-col underline items-center text-primary">
+        <a href="https://www.flaticon.com/free-icons/warning" title="warning icons" className="">Warning icons created by Good Ware - Flaticon</a>
+        <a href="https://www.flaticon.com/free-icons/no-data" title="no data icons">No data icons created by Freepik - Flaticon</a>
+        <a href="https://thenounproject.com/browse/icons/term/sort/" target="_blank" title="Sort Icons">Sort by Riyan Resdian from Noun Project(CC BY 3.0)</a> 
+        <a href="https://www.flaticon.com/free-icons/miscellaneous" title="miscellaneous icons">Miscellaneous icons created by Vectorsclub - Flaticon</a>
+        <a href="https://creativecommons.org/licenses/by/4.0/">World map by mapsvg.com (Licensed under CC BY 4.0)</a>
+        </div>
     </section>
   );
 };

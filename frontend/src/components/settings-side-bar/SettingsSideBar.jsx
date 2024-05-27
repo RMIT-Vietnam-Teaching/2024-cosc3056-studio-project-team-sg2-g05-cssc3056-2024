@@ -38,7 +38,7 @@ const SettingsSideBar = ({
           />
         )}
       </div>
-      <div className="ml-[14px] flex flex-col h-[1400px] justify-evenly items-start">
+      <div className="ml-[14px] flex flex-col h-[800px] justify-evenly items-start">
         <DropdownMenu
           title="Analyze Temperature And Population Change"
           links={[
@@ -90,6 +90,7 @@ const SettingsSideBar = ({
             },
           ]}
         />
+        
       </div>
     </div>
   );
