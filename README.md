@@ -1,4 +1,4 @@
 Open your preferred Java IDE.
 Load the project .
-Start the project execution.
+execute src\main\java\com\xuanduy\terrascope\TerrascopeApplication.java
 go to 'http://localhost:8081/'
